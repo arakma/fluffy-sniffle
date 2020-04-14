@@ -1,2 +1,2 @@
 # fluffy-sniffle
-readme
+README.md
